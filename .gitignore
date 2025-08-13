@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -210,6 +211,4 @@ __marimo__/
 .DS_Store
 
 #idea 
-.idea/*
-:wq
-
+.idea/
